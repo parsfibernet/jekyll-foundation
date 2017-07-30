@@ -1,11 +1,11 @@
-- link: Home
+- link: صفحه اصلی
   url: /
 
-- link: Blog
+- link: بلاگ
   url: /blog
 
-- link: Sample Page
+- link: درباره
   url: /samplepage
 
-- link: Kitchen Sink
+- link: همکاری
   url: /kitchen-sink
