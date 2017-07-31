@@ -3,46 +3,63 @@ permalink: /
 layout: index
 title: Homepage
 ---
+<div class="callout large splash">
+    <div class="row column text-center">
+        <h1>سایت جدید فایبرنتره بیوین!</h1>
+        <p class="lead">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی</p>
+        <a href="#" class="button large">جزئیات</a>
+        <a href="#" class="button large hollow">پیش نمایش</a>
+    </div>
+</div>
 
-<div class="callout large">
 <div class="row column text-center">
-<h1>سایت جدید فایبرنتره بیوین!</h1>
-<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris.</p>
-<a href="#" class="button large">Learn More</a>
-<a href="#" class="button large hollow">Learn Less</a>
+    <h2>خدمات</h2>
 </div>
+
+<div class="row services-callouts text-center">
+    <div class="medium-4 medium-offset-2 small-12 columns container-hover service-mascot">
+        <a href="#">
+        <img src="http://foundation.zurb.com/assets/img/learn/features/2-flexible-nav.svg">
+        <h3>راهکارهای نرم‌افزاری</h3>
+        <p>کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد.</p>
+        <p class="link">آشنایی بیشتر با راهکارهای نرم‌افزاری</p>
+        </a>
+    </div>
+    <div class="medium-4 small-12 columns container-hover service-mascot">
+        <a href="#">
+        <img src="http://foundation.zurb.com/assets/img/learn/features/3-modular-js.svg">
+        <h3>مرکز تماس</h3>
+        <p>در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.</p>
+        <p class="link">آشنایی بیشتر با فرایند مرکز تماس</p>
+        </a>
+    </div>
 </div>
+<div class="callout large stats">
+    <div class="row column">
+        <ul class="vertical medium-horizontal menu expanded text-center">
+            <li><a href="#"><div class="stat">۲۸</div><span>وب‌سایت</span></a></li>
+            <li><a href="#"><div class="stat">۴۳</div><span>اپلیکیشن</span></a></li>
+            <li><a href="#"><div class="stat">۹۵</div><span>تبلیغ</span></a></li>
+            <li><a href="#"><div class="stat">۵۹</div><span>کیک</span></a></li>
+            <li><a href="#"><div class="stat">۱۸</div><span>درخواست</span></a></li>
+        </ul>
+    </div>
+</div>
+
 <div class="row">
-<div class="medium-6 columns medium-push-6">
-<img class="thumbnail" src="https://placehold.it/750x350">
+    <div class="medium-1 medium-offset-2 columns">
+        <img class="avatar" src="https://www.famousbirthdays.com/faces/clooney-george-image.jpg">
+    </div>
+    <div class="medium-7 columns">
+        <blockquote>
+            <p>که تمام و دشواری موجود در ارائه راهکارها و شرایط سخت تایپ به پایان رسد وزمان مورد نیاز شامل حروفچینی دستاوردهای اصلی و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.</p>
+            <cite>مهدی مشتاقی - <a href="#">آمازون</a></cite>
+        </blockquote>
+    </div>
 </div>
-<div class="medium-6 columns medium-pull-6">
-<h2>Our Agency, our selves.</h2>
-<p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna diam porttitor mauris, quis sollicitudin sapien justo in libero. Vestibulum mollis mauris enim. Morbi euismod magna ac lorem rutrum elementum. Donec viverra auctor.</p>
-</div>
-</div>
-<div class="row">
-<div class="medium-4 columns">
-<h3>Photoshop</h3>
-<p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.</p>
-</div>
-<div class="medium-4 columns">
-<h3>Javascript</h3>
-<p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.</p>
-</div>
-<div class="medium-4 columns">
-<h3>Marketing</h3>
-<p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.</p>
-</div>
-</div>
-<hr>
-<div class="row column">
-<ul class="vertical medium-horizontal menu expanded text-center">
-<li><a href="#"><div class="stat">28</div><span>Websites</span></a></li>
-<li><a href="#"><div class="stat">43</div><span>Apps</span></a></li>
-<li><a href="#"><div class="stat">95</div><span>Ads</span></a></li>
-<li><a href="#"><div class="stat">59</div><span>Cakes</span></a></li>
-<li><a href="#"><div class="stat">18</div><span>Logos</span></a></li>
-</ul>
-</div>
-<hr>
+
+<!-- <div class="row column text-center">
+    <div class="responsive-embed">
+    <style>.h_iframe-aparat_embed_frame{position:relative;} .h_iframe-aparat_embed_frame .ratio {display:block;width:100%;height:auto;} .h_iframe-aparat_embed_frame iframe {position:absolute;top:0;left:0;width:100%; height:100%;}</style><div class="h_iframe-aparat_embed_frame"> <span style="display: block;padding-top: 57%"></span><iframe src="https://www.aparat.com/video/video/embed/videohash/DHcoC/vt/frame" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" ></iframe></div>
+    </div>
+</div> -->

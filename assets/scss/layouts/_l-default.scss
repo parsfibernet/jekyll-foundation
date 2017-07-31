@@ -3,19 +3,8 @@
 // --------------------------------------------------
 
 header {
-  @include grid-row;
-  background-color: $light-gray;
-
-  nav {
-    @include grid-column;
-  }
 }
-
 footer {
-  @include grid-row;
-  background-color: $light-gray;
-
-  nav {
-    @include grid-column;
-  }
+  background: #333 url('../img/bg-pattern.png');
+  border-bottom: none !important;
 }
