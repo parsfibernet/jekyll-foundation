@@ -1,10 +1,10 @@
 // --------------------------------------------------
 // Layout default
 // --------------------------------------------------
-
-header {
+body{
+  color: rgba(0,0,0,0.9);
 }
-footer {
-  background: #333 url('../img/bg-pattern.png');
-  border-bottom: none !important;
+p {
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
 }

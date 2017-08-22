@@ -1,4 +1,17 @@
-- link: Legal
-  url: #
-- link: two
-  url: #
+- link: درباره ما
+  url: /about
+
+- link: خدمات
+  url: /services
+
+- link: تماس با ما
+  url: /contact-us
+
+# - link: بلاگ
+#   url: /blog
+
+- link: استخدام
+  url: https://jobinja.ir/companies/fibernet/jobs
+
+- link: خدمات اینترنتی
+  url: http://fibernet.ir

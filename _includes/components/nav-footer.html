@@ -1,7 +1,5 @@
-  <nav>
-  <ul class="menu vertical">
-    {% for item in site.data.nav-footer %}
-      <li><a href="{{ item.url }}">{{ item.link }}</a></li>
-    {% endfor %}
-  </ul>
-</nav>
+<ul class="menu footer">
+  {% for item in site.data.nav-footer %}
+    <li><a href="{{ item.url }}">{{ item.link }}</a></li>
+  {% endfor %}
+</ul>

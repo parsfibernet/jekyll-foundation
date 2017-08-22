@@ -1,3 +1,26 @@
+//
 //  Foundation for Sites Settings
 //  -----------------------------
 $body-font-family: 'Vazir', sans-serif !default;
+$header-color: #424242;
+$header-margin-bottom: 1.1rem;
+$paragraph-lineheight: 2;
+$header-font-weight: bold;
+$header-styles: (
+  'small': (
+    'h1': ('font-size': 24),
+    'h2': ('font-size': 16),
+    'h3': ('font-size': 12),
+    'h4': ('font-size': 10),
+    'h5': ('font-size': 17),
+    'h6': ('font-size': 16)
+  ),
+  'medium': (
+    'h1': ('font-size': 48),
+    'h2': ('font-size': 32),
+    'h3': ('font-size': 24),
+    'h4': ('font-size': 20),
+    'h5': ('font-size': 20),
+    'h6': ('font-size': 16)
+  )
+);

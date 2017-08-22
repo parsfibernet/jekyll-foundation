@@ -3,7 +3,9 @@ layout: compress
 ---
 
 {% include header.html %}
-
+{% if page.isHome == false %}
+    {% include components/title-bar.html %}
+{% endif %}
 {{ content }}
 
 {% include footer.html %}

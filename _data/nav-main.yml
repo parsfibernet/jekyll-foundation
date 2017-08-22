@@ -1,11 +1,8 @@
 - link: صفحه اصلی
   url: /
 
-- link: بلاگ
-  url: /blog
+- link: خدمات
+  url: /services
 
-- link: درباره
-  url: /samplepage
-
-- link: همکاری
-  url: /kitchen-sink
+- link: درباره ما
+  url: /about
