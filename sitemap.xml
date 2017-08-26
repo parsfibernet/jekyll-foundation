@@ -14,7 +14,6 @@ sitemap: false
         <loc>{{ site.url }}{{ page.permalink }}</loc>
         <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
         <changefreq>yearly</changefreq>
-        <title>{{ page.title }}</title>
         </url>
     {% endif %}
 {% endfor %}
