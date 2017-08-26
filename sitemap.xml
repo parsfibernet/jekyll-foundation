@@ -9,10 +9,13 @@ sitemap: false
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 {% for page in site.pages %}
-<url>
-  <loc>{{ site.url }}{{ page.permalink }}</loc>
-  <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
-  <changefreq>yearly</changefreq>
-</url>
+    {% if page.sitemap != false %}
+        <url>
+        <loc>{{ site.url }}{{ page.permalink }}</loc>
+        <lastmod>{{ page.date | date_to_xmlschema }}</lastmod>
+        <changefreq>yearly</changefreq>
+        <title>{{ page.title }}</title>
+        </url>
+    {% endif %}
 {% endfor %}
 </urlset>
