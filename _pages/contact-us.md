@@ -3,6 +3,7 @@ permalink: /contact-us/
 layout: default
 title: تماس با ما
 subTitle: می‌توانید از فرم زیر برای ارتباط با ما استفاده
+date: 2017-08-29T10:20:00Z
 isHome: false
 ---
 <div class="row">

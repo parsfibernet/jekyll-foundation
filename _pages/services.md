@@ -2,7 +2,7 @@
 permalink: /services/
 layout: default
 title:  خدمات مرکز تماس
-date:   2017-07-31 21:21
+date: 2017-08-29T10:20:00Z
 isHome: false
 ---
 <div class="row columns">

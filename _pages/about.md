@@ -2,6 +2,7 @@
 permalink: /about/
 layout: page
 title: درباره ما
+date: 2017-08-29T10:20:00Z
 isHome: false
 ---
 <img src="../assets/img/contact-center-photo.jpg" >
