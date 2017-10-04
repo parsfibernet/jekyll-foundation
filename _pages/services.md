@@ -51,7 +51,7 @@ isHome: false
         <div class="large-feature">
             <div class="row">
                 <div class="medium-3 medium-push-8 columns">
-                    <img src="http://foundation.zurb.com/assets/img/learn/features/customizable-sass-grid.svg">
+                    <img src="../assets/img/services-mobile.png">
                 </div>
                 <div class="medium-6 medium-pull-4 columns">
                     <h2 class="large-feature-header">خدمات موبایل</h2>
@@ -63,7 +63,7 @@ isHome: false
         <div class="large-feature">
             <div class="row">
                 <div class="medium-3 medium-offset-2 columns">
-                    <img src="http://foundation.zurb.com/assets/img/learn/features/svgs/motion-ui.svg">
+                    <img src="../assets/img/services-crm.png">
                 </div>
                 <div class="medium-6 end columns">
                     <h2 class="large-feature-header">مدیریت ارتباط با مشتریان</h2>
@@ -75,7 +75,7 @@ isHome: false
         <div class="large-feature">
             <div class="row">
                 <div class="medium-3 medium-push-8 columns">
-                    <img src="http://foundation.zurb.com/assets/img/learn/features/svgs/fewer-overrides.svg">
+                    <img src="../assets/img/services-monitoring.png">
                 </div>
                 <div class="medium-6 medium-pull-4 columns">
                     <h2 class="large-feature-header">مانیتورینگ</h2>
