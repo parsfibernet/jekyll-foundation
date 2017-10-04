@@ -8,7 +8,13 @@ isHome: false
 ---
 <div class="row">
   <div class="large-5 medium-8 small-12 medium-centered">
-    <img src="http://foundation.zurb.com/assets/img/mascots/responsive-through-and-through.svg">
+    <br>
+    <h4>دفتر مرکزی</h4>
+    <p>تهران، بلوار افریقا (جردن)، عاطفی غربی، پلاک ۸۱، واحد ۳۰۱<br>
+      تلفن : ۲۶۲۹۱۵۸۳-۰۲۱ فکس : ۸۹۷۷۲۲۸۵-۰۲۱</p>
+    <h4>دفتر استان گلستان</h4>
+    <p>گرگان، بلوار پنج آذر، نبش آذر ۱۶، مجتمع فایبرنت<br>
+      تلفن : ۲۶۲۹۱۵۸۳-۰۲۱ فکس : ۸۹۷۷۲۲۸۵-۰۲۱</p>
     <hr class="dotted">
     <form data-abide novalidate action="https://getsimpleform.com/messages?form_api_token=b9a59d025b15329911c23d03fd2c7233" method="POST" >
       <input type='hidden' name='redirect_to' value='http://parsfibernet.com/contact-us?result=success' />
@@ -50,13 +56,5 @@ isHome: false
       </div>
     </form>
     <p class="text-center">و یا با ما از طریق ایمیل <strong>info (at) parsfibernet (dot) com</strong> در تماس باشید.</p>
-    <hr class="dotted">
-      <h4>دفتر مرکزی</h4>
-      <p>تهران، بلوار افریقا (جردن)، عاطفی غربی، پلاک ۸۱، واحد ۳۰۱<br>
-      تلفن : ۲۶۲۹۱۵۸۳-۰۲۱ فکس : ۸۹۷۷۲۲۸۵-۰۲۱</p>
-      <h4>دفتر استان گلستان</h4>
-      <p>گرگان، بلوار پنج آذر، نبش آذر ۱۶، مجتمع فایبرنت<br>
-      تلفن : ۲۶۲۹۱۵۸۳-۰۲۱ فکس : ۸۹۷۷۲۲۸۵-۰۲۱</p>
-      <br>
   </div>
 </div>
